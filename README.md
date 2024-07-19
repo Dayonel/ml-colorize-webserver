@@ -39,4 +39,4 @@ Alternatively, use the prepared image from the folder `img_in`.
 # Result
 You should see something like this
 
-![instructions](https://github.com/user-attachments/assets/ed9ec3b2-f2ae-4c22-9b49-a069adf24650)
+![instructions](https://github.com/user-attachments/assets/42658d2b-b43f-429b-9cfd-4375a36dbf16)
